@@ -13,18 +13,10 @@ Quando eu digitar o usuário "sarahdfweb@gmail.com"
 E a senha "Senha@123"
 Então deve exibir uma mensagem de boas vindas "Olá Sarah!"
 
-
-Cenário: Usuário inexistente
-Quando eu digitar o usuário "xxxxx@.com.br"
-E a senha "senha@123"
-Então deve exibir uma mensagem de alerta: "Usuário inexistente"
-
-
-Cenário: Usuário com senha inválida
+Cenário: Usuário inválido
 Quando eu digitar o usuário "sarahdfweb@gmail.com"
 E a senha "senha123"
 Então deve exibir uma mensagem de alerta: "Usuário ou senha inválidos"
-
 
 Cenário: Perdeu a senha
 
@@ -39,5 +31,7 @@ Então deve exibir a <mensagem> de sucesso
 Exemplos:
 |usuario |senha |mensagem |
 |sarahdfweb@gmail.com|Senha@123|"Olá Sarah!"|
+|sarahdfweb@gmail.com|123|"Usuário ou senha inválidos"|
 |pedro@gmail.com|senha123|"Olá Pedro!"|
 |kaleb@123.com.br|senha321|"Usuário ou senha inválidos"|
+
