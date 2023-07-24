@@ -8,5 +8,5 @@
 * <a href="https://github.com/sarahdfweb/especializacao_testes_software/blob/main/Bug%20Report%20-%20Modelo%20Preenchido%20(1).docx">Modelo de Análise de qualidade;</a>
 * <a href="https://github.com/sarahdfweb/especializacao_testes_software/blob/main/Bug%20Report%20-%20Modelo%20Preenchido%20(1).docx">Modelo de report de bugs;</a>
 * <a href="https://github.com/sarahdfweb/especializacao_testes_software/tree/main/Gherkin">Linguagem Gerkin.</a>
-* <a href="https://github.com/sarahdfweb/especializacao_testes_software/tree/main/Gherkin">Relatório de Acessibilidade</a>
-* <a href="https://github.com/sarahdfweb/especializacao_testes_software/tree/main/Gherkin">Alteração do Front via DevTools</a>
+* <a href="https://github.com/sarahdfweb/especializacao_testes_software/blob/main/Relatorio_Acessibilidade%20(1).docx">Relatório de Acessibilidade</a>
+* <a href="">Alteração do Front via DevTools</a>
