@@ -80,27 +80,27 @@ Modelos de cenário
 
 ![image](https://github.com/sarahdfweb/especializacao_testes_software/assets/87348787/0c23d31c-a6d4-4740-911a-d019dd951efc)
 
- 
+``` 
 Funcionalidade: Cadastro de Múltiplos Usuários
 
 Contexto: Na tela de cadastro de usuário
 
 Esquema do cenário: Autenticar múltiplos usuários
 
-Quando preencher os seguintes campos:
-  | Campo              | Valor                   |
-  | Nome               | <nome>                  |
-  | CPF                | <CPF>                   |
-  | RG                 | <RG>                    |
-  | Data de Nascimento | <Data_de_Nascimento>    |
-  | Código SSP    | <Código_SSP>   |
-  | Email                | <email>                 |
-E marcar o checkpoint como "<sim>",
-E selecionar a opção "<auxiliar>" no seletor,
-E clicar em salvar 
-Então o sistema deverá salvar o novo cadastro
-Exemplos:
+Quando preencher os seguintes campos para múltiplos usuários:
+  | Nome               | CPF             | RG       | Data de Nascimento  | Código SSP | Email                      |
+  |--------------------|-----------------|----------|---------------------|------------|--------------------------- |
+  | João da Silva      | 123.456.789-00  | 98765432 | 01/01/1990          | 123456     | joao.silva@example.com     |
+  | Maria Oliveira     | 987.654.321-00  | 12345678 | 02/02/1985          | 654321     | maria.oliveira@example.com |
+  | José Santos        | 456.789.123-00  | 54321678 | 03/03/1980          | 789123     | jose.santos@example.com    |
 
+E marcar o checkpoint como "Sim" para cada usuário,
+E selecionar a opção "Auxiliar" no seletor para cada usuário,
+E clicar em salvar para cada usuário,
+Então o sistema deverá salvar os novos cadastros de múltiplos usuários
+
+```
+Então o sistema deverá salvar os novos cadastros de múltiplos usuários
 </details>
 
 <details>
