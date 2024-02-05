@@ -69,6 +69,8 @@ Modelos de cenário
 
  
 ```
+Funcionalidade: Anexar novo arquivo
+
  Contexto: Dado que eu acesse a página de Lista de Anexos
 
             Esquema do Cenário: 1 - Adicionar Arquivo
