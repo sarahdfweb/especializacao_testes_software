@@ -1,9 +1,11 @@
 <h4 align="center">
  🚧 Projeto README Em construção ... 🚧</h4>
- 
-## Especialização em Engenheiro da qualidade de software
 
-<p> Nesse repositório será armazenado os conteúdos mais relevantes do curso de Engenheiro da qualidade de software.</p>
+<h1 align="center">Central de Conhecimento QA</h1>
+
+## Recursos Essenciais para Engenheiros de Qualidade de Software 
+
+<p> Este é um repositório de sabedoria, destinado a evitar que informações importantes sejam esquecidas.</p>
 
 <details>
   <summary><a href="https://github.com/sarahdfweb/especializacao_testes_software/blob/main/Bug%20Report%20-%20Modelo%20Preenchido%20(1).docx">Modelo de Análise de qualidade</a></summary>
@@ -22,6 +24,8 @@ No BDD, as especificações do sistema são escritas em uma linguagem que é com
 Um framework popular para BDD é o Cucumber, que permite escrever testes em uma linguagem natural, como o inglês, e automatizá-los para verificar se o sistema está se comportando conforme esperado.
 Em resumo, o BDD enfatiza a comunicação, colaboração e clareza na definição do comportamento do software, ajudando as equipes a criar sistemas que atendam às necessidades reais dos usuários e partes interessadas.
  
+<img src="https://github.com/sarahdfweb/especializacao_testes_software/assets/87348787/4d434239-762a-40cd-9224-4126b0eef476" style="width: 300px; height: auto;" alt="Imagem de exemplo">
+
 Por que usar BDD?
 	Melhora a comunicação entre desenvolvedores e profissionais de negócios; 
 	Assegura que toda a equipe esteja focada em entregar o necessário para alcançar seus objetivos; 
@@ -50,12 +54,18 @@ Ex.: Cenário: Buscar por “Qualidade” no Google
 Imperativo: (ERRADO)
 Dado que eu abra o navegador E acesse o google.com E clicar no campo “search” Quando eu digitar pela palavra “Qualidade” E clicar no botão “buscar” Então deve exibir a lista com os resultados 
 Declarativo:
-Dado que eu acesse o google Quando eu buscar pela palavra “Qualidade” Então deve exibir a lista com os resultados
- 
+Dado que eu acesse o google Quando eu buscar pela palavra “Qualidade” Então deve exibir a lista com os resultados 
+
+![image](https://github.com/sarahdfweb/especializacao_testes_software/assets/87348787/7680c6f7-ec95-4ded-a60e-1052f1acf9a3)
+
 Ferramentas para o Gherkin 
 Dependendo da linguagem de programação ou framework de automação de testes, algumas ferramentas podem auxiliar no padrão de escrita e até gerando steps automaticamente.
- 
+
+![image](https://github.com/sarahdfweb/especializacao_testes_software/assets/87348787/6028356f-bd8d-41a7-a49e-cb1d8b16cb99)
+
 Modelos de cenário 
+
+![image](https://github.com/sarahdfweb/especializacao_testes_software/assets/87348787/348e6c96-cfa0-4744-af37-34c1028df311)
 
  
 ```
@@ -67,6 +77,9 @@ Modelos de cenário
             Então deve ser exibido na lista de anexos 
            
 ```
+
+![image](https://github.com/sarahdfweb/especializacao_testes_software/assets/87348787/0c23d31c-a6d4-4740-911a-d019dd951efc)
+
  
 Funcionalidade: Cadastro de Múltiplos Usuários
 
