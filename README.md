@@ -128,7 +128,8 @@ Então o sistema deverá salvar os novos cadastros de múltiplos usuários
 
   Além de garantir conformidade com diretrizes de acessibilidade, como as Diretrizes de Acessibilidade para Conteúdo da Web (WCAG), os testes de acessibilidade são essenciais para promover a inclusão e a igualdade de acesso à tecnologia.
 
-  [Clique aqui para baixar o relatório](https://github.com/sarahdfweb/especializacao_testes_software/blob/main/Relatorio_Acessibilidade%20(1).docx) &#x1f4be;
+  [Clique aqui para baixar o relatório]([Relatorio_Acessibilidade (1) (1).docx](https://github.com/sarahdfweb/especializacao_testes_software/files/14173736/Relatorio_Acessibilidade.1.1.docx)
+) &#x1f4be;
 </details>
 
 <details>
