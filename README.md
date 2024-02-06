@@ -129,8 +129,8 @@ Então o sistema deverá salvar os novos cadastros de múltiplos usuários
 <details>
  <summary><strong>Alteração do Front via DevTools</strong></summary>
 
-   [Clique aqui para baixar o front alterado](https://github.com/sarahdfweb/especializacao_testes_software/blob/main/Alteracao_Devtools%20(1).docx) &#x1f4be;
+   Clique no link abaixo para baixar o front alterado:
+
+  [Baixar Alteracao_Devtools (1) (1).docx](https://github.com/sarahdfweb/especializacao_testes_software/files/14173555/Alteracao_Devtools.1.1.docx) &#x1f4be;
 </details>
-
-
 
