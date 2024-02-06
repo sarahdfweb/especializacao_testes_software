@@ -8,17 +8,24 @@
 <p> Este é um repositório de sabedoria, destinado a evitar que informações importantes sejam esquecidas.</p>
 
 <details>
-  <summary><a href="https://github.com/sarahdfweb/especializacao_testes_software/blob/main/Bug%20Report%20-%20Modelo%20Preenchido%20(1).docx">Modelo de Análise de qualidade</a></summary>
-  teste
+ <summary><strong>Modelo de Análise de qualidade</strong></summary>
+
+   [Clique aqui para baixar o relatório](https://github.com/sarahdfweb/especializacao_testes_software/blob/main/Bug%20Report%20-%20Modelo%20Preenchido%20(1).docx) &#x1f4be;
 </details>
 
 <details>
-  <summary><a href="https://github.com/sarahdfweb/especializacao_testes_software/blob/main/Bug%20Report%20-%20Modelo%20Preenchido%20(1).docx">Modelo de report de bugs</a></summary>
-  teste
-</details>
+ <summary><strong>Modelo de report de bugs</strong></summary>
 
+   [Clique aqui para baixar o Modelo](https://github.com/sarahdfweb/especializacao_testes_software/blob/main/Bug%20Report%20-%20Modelo%20Preenchido%20(1).docx) &#x1f4be;
+</details>
+  
 <details>
-  <summary><a href="https://github.com/sarahdfweb/especializacao_testes_software/tree/main/Gherkin">Linguagem Gerkin</a></summary>
+  <summary><strong>Linguagem Gerkin</strong></summary>
+  
+
+ [Clique aqui para baixar o Modelo](https://github.com/sarahdfweb/especializacao_testes_software/blob/main/Bug%20Report%20-%20Modelo%20Preenchido%20(1).docx) &#x1f4be;
+
+ 
   BDD significa "Behavior-Driven Development" (Desenvolvimento Orientado a Comportamento, em português). É uma abordagem de desenvolvimento de software que visa integrar a colaboração entre desenvolvedores, gerentes de produtos e partes interessadas (stakeholders) por meio da linguagem natural e de cenários que descrevem o comportamento esperado do sistema.
 No BDD, as especificações do sistema são escritas em uma linguagem que é compreensível tanto para desenvolvedores quanto para não desenvolvedores. Essas especificações são então usadas para guiar o desenvolvimento e criar testes automatizados que validam o comportamento do sistema.
 Um framework popular para BDD é o Cucumber, que permite escrever testes em uma linguagem natural, como o inglês, e automatizá-los para verificar se o sistema está se comportando conforme esperado.
@@ -106,8 +113,17 @@ Então o sistema deverá salvar os novos cadastros de múltiplos usuários
 </details>
 
 <details>
-  <summary><a href="https://github.com/sarahdfweb/especializacao_testes_software/blob/main/Relatorio_Acessibilidade%20(1).docx">Relatório de Acessibilidade</a></summary>
-  teste
+  <summary><strong>Relatório de Acessibilidade</strong></summary>
+  
+  O Relatório de Acessibilidade oferece uma visão detalhada sobre a acessibilidade de um software ou aplicação, destacando sua capacidade de ser utilizado por todos os usuários, independentemente de suas habilidades ou necessidades especiais.
+
+  Os testes de acessibilidade são fundamentais para garantir que o software atenda a uma ampla gama de usuários, incluindo aqueles com deficiências visuais, auditivas, motoras, cognitivas, entre outras. Esses testes visam identificar e corrigir possíveis barreiras que possam dificultar ou impedir o acesso e a utilização do software.
+
+  No processo de teste de acessibilidade, são avaliados diversos aspectos, como a navegabilidade por meio do teclado, o suporte a tecnologias assistivas, como leitores de tela, o contraste de cores e a legibilidade de texto, legendagem e transcrição de conteúdo de áudio, tempo suficiente para interação e resposta, e a clareza na interface do usuário.
+
+  Além de garantir conformidade com diretrizes de acessibilidade, como as Diretrizes de Acessibilidade para Conteúdo da Web (WCAG), os testes de acessibilidade são essenciais para promover a inclusão e a igualdade de acesso à tecnologia.
+
+  [Clique aqui para baixar o relatório](https://github.com/sarahdfweb/especializacao_testes_software/blob/main/Relatorio_Acessibilidade%20(1).docx) &#x1f4be;
 </details>
 
 <details>
