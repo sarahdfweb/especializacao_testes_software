@@ -1,11 +1,16 @@
 <h4 align="center">
- 🚧 Projeto README Em construção ... 🚧</h4>
+ 🚧 Projeto README Em construção ... 🚧</h4> 
 
 <h1 align="center">Central de Conhecimento QA</h1>
 
 ## Recursos Essenciais para Engenheiros de Qualidade de Software 
 
-<p> Este é um repositório de sabedoria, destinado a evitar que informações importantes sejam esquecidas.</p>
+
+<p> Este é um repositório de sabedoria, destinado a evitar que informações importantes sejam esquecidas.
+ 
+</p> 
+
+![ladybug-40](https://github.com/sarahdfweb/especializacao_testes_software/assets/87348787/093003fa-5abe-466f-bd37-92796db5fc28)
 
 <details>
  <summary><strong>Modelo de Análise de qualidade</strong></summary>
