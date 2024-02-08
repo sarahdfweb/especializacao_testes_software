@@ -111,7 +111,7 @@ Quando preencher os seguintes campos para múltiplos usuários:
 E marcar o checkpoint como "Sim" para cada usuário,
 E selecionar a opção "Auxiliar" no seletor para cada usuário,
 E clicar em salvar para cada usuário,
-Então o sistema deverá salvar os novos cadastros de múltiplos usuários
+Então o sistema deverá salvar os novos cadastros
 
 ```
 Então o sistema deverá salvar os novos cadastros de múltiplos usuários
