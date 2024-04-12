@@ -10,7 +10,9 @@
  
 </p> 
 
-![ladybug-40](https://github.com/sarahdfweb/especializacao_testes_software/assets/87348787/093003fa-5abe-466f-bd37-92796db5fc28)
+<img src="https://github.com/sarahdfweb/especializacao_testes_software/assets/87348787/093003fa-5abe-466f-bd37-92796db5fc28" alt="ladybug-100" width="200">
+
+
 
 <details>
  <summary><strong>Modelo de Análise de qualidade</strong></summary>
