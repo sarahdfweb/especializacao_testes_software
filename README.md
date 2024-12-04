@@ -27,7 +27,7 @@
 </details>
   
 <details>
-  <summary><strong>Linguagem Gerkin</strong></summary>
+  <summary><strong>Linguagem Gherkin</strong></summary>
   
   
 BDD significa "Behavior-Driven Development" (Desenvolvimento Orientado a Comportamento, em português). 
